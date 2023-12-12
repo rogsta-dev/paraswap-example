@@ -1,0 +1,11 @@
+{
+  "name": "paraswap-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@paraswap/sdk": "^6.3.0",
+    "axios": "^1.6.2",
+    "ethers": "^6.9.0"
+  }
+}
